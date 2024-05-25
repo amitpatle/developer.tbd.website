@@ -1,12 +1,1 @@
-<svg width="62" height="10" viewBox="0 0 62 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="2" height="10" fill="black"/>
-<rect x="56" width="2" height="10" fill="black"/>
-<rect x="60" width="2" height="10" fill="black"/>
-<rect x="7" width="4" height="10" fill="black"/>
-<rect x="13" width="2" height="10" fill="black"/>
-<rect x="26" width="2" height="10" fill="black"/>
-<rect x="32" width="2" height="10" fill="black"/>
-<rect x="42" width="2" height="10" fill="black"/>
-<rect x="46" width="4" height="10" fill="black"/>
-<rect x="17" width="7" height="10" fill="black"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="10" fill="none" viewBox="0 0 62 10"><rect width="2" height="10" fill="#000"/><rect width="2" height="10" x="56" fill="#000"/><rect width="2" height="10" x="60" fill="#000"/><rect width="4" height="10" x="7" fill="#000"/><rect width="2" height="10" x="13" fill="#000"/><rect width="2" height="10" x="26" fill="#000"/><rect width="2" height="10" x="32" fill="#000"/><rect width="2" height="10" x="42" fill="#000"/><rect width="4" height="10" x="46" fill="#000"/><rect width="7" height="10" x="17" fill="#000"/></svg>
